@@ -1,0 +1,25 @@
+{
+  "name": "convict-example-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-312/node-convict-example-usage.git"
+  },
+  "author": "A-312",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/A-312/node-convict-example-usage/issues"
+  },
+  "homepage": "https://github.com/A-312/node-convict-example-usage#readme",
+  "dependencies": {
+    "convict": "^5.1.0",
+    "yaml": "^1.6.0"
+  }
+}

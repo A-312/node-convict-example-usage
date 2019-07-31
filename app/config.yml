@@ -1,0 +1,6 @@
+path:
+  cache: app/cache/appA/
+
+
+http:
+  port: 5000

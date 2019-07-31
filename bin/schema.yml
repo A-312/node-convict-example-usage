@@ -1,0 +1,12 @@
+path:
+  cache:
+    # path.cache
+    format: String
+    default: app/cache/
+
+
+http:
+  port:
+    # http.port
+    format: port
+    default: 3000
